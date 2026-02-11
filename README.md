@@ -1,4 +1,4 @@
-🎥 YouTube Clone (HTML & CSS Only)
+# 🎥 YouTube Clone
 
 A fully responsive YouTube Homepage Clone built using only HTML5 and CSS3.
 This project replicates the layout, styling, grid system, header, sidebar, and video sections of YouTube.
