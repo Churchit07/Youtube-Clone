@@ -88,8 +88,11 @@ Responsible for:
 Key Styling Concepts Used:
 
 ✔ margin: 0 to remove default browser spacing
+
 ✔ padding-top to prevent content hiding under fixed header
+
 ✔ padding-left to adjust space for fixed sidebar
+
 ✔ Global font consistency
 
 
