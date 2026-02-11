@@ -77,7 +77,7 @@ That's it ✅
 
 This project uses modular CSS architecture, where each section has a separate CSS file.
 
-🔹 1. General Styling (general.css)
+### 🔹 1. General Styling (general.css)
 
 Responsible for:
 
