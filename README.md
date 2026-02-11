@@ -6,17 +6,23 @@ This project replicates the layout, styling, grid system, header, sidebar, and v
 ⚡ No JavaScript used — Pure HTML & CSS Layout Practice Project.
 
 🚀Features
-Layout Features
+
+##Layout Features
+
 - Fixed Header with Search Bar
 - Fixed Sidebar Navigation
 - Responsive Video Grid
 - Video Duration Overlay
 - Tooltip Hover Effects
-Responsive Design
+ 
+##Responsive Design
+
 - CSS Grid-Based Layout
 - Media Queries for Multiple Breakpoints
 - Adaptive Columns (2 / 3 / 4 based on screen size)
-Styling Techniques
+- 
+##Styling Techniques
+
 - Flexbox Alignment
 - CSS Grid System
 - Absolute & Relative Positioning
