@@ -70,6 +70,7 @@ git clone https://github.com/your-username/youtube-clone.git
 2️⃣ Open the Project
 - Open youtube.html
 - OR open with VS Code and run using Live Server
+
 That's it ✅
 
 
