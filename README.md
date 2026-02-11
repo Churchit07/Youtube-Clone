@@ -1,4 +1,4 @@
-# 🎥 YouTube Clone
+ # 🎥 YouTube Clone
 
 A fully responsive YouTube Homepage Clone built using only HTML5 and CSS3.
 This project replicates the layout, styling, grid system, header, sidebar, and video sections of YouTube.
@@ -60,7 +60,17 @@ Youtube-Clone/
 └── README.md
 ```
 
+## 💻 How to Use This Project
 
+1️⃣ Clone the Repository
+```
+git clone https://github.com/your-username/youtube-clone.git
+```
+
+2️⃣ Open the Project
+- Open youtube.html
+- OR open with VS Code and run using Live Server
+That's it ✅
 
 
 
