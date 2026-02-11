@@ -62,12 +62,12 @@ Youtube-Clone/
 
 ## 💻 How to Use This Project
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 ```
 git clone https://github.com/your-username/youtube-clone.git
 ```
 
-2️⃣ Open the Project
+### 2️⃣ Open the Project
 - Open youtube.html
 - OR open with VS Code and run using Live Server
 
@@ -77,7 +77,7 @@ That's it ✅
 
 This project uses modular CSS architecture, where each section has a separate CSS file.
 
-### 🔹 1. General Styling (general.css)
+### 🔹1. General Styling (general.css)
 
 Responsible for:
 
@@ -95,7 +95,7 @@ Key Styling Concepts Used:
 
 ✔ Global font consistency
 
- 🔹 2. Header Styling (header.css)
+### 🔹2. Header Styling (header.css)
 
 The header is designed using:
 
@@ -116,7 +116,7 @@ Important CSS Concepts Used:
 
 ✔ z-index layering
 
-🔹 3. Sidebar Styling (sidebar.css)
+### 🔹3. Sidebar Styling (sidebar.css)
 
 Sidebar uses:
 
@@ -132,7 +132,7 @@ Key Concepts:
 
 ✔ Hover background change
 
-🔹 4. Video Grid Styling (video.css)
+### 🔹4. Video Grid Styling (video.css)
 
 This is the most important layout section.
 
