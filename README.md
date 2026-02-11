@@ -5,6 +5,7 @@ This project replicates the layout, styling, grid system, header, sidebar, and v
 
 ⚡ No JavaScript used — Pure HTML & CSS Layout Practice Project.
 
+
 # 🚀Features
 
 ##   Layout Features
@@ -31,7 +32,7 @@ This project replicates the layout, styling, grid system, header, sidebar, and v
 
 
  
-# 🛠️Technologies Used
+## 🛠️Technologies Used
 
 - HTML5
 - CSS3 (Flexbox + Grid)
