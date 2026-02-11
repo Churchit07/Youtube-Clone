@@ -138,7 +138,19 @@ This is the most important layout section.
 
 It uses:
 
--CSS Grid
+- CSS Grid
 - Responsive breakpoints
 - Overlay positioning
 - Grid inside grid (video-info-grid)
+
+## 🎯 Important CSS Techniques Demonstrated
+
+- Flexbox Layout
+- CSS Grid Layout
+- Fixed Positioning
+- Hover Effects
+- Tooltips
+- Responsive Design
+- Absolute & Relative Positioning
+- Z-Index Layer Management
+- Media Queries
