@@ -95,4 +95,50 @@ Key Styling Concepts Used:
 
 ✔ Global font consistency
 
+ 🔹 2. Header Styling (header.css)
 
+The header is designed using:
+
+- Flexbox
+- Fixed positioning
+- Hover tooltips
+- Icon alignment
+
+Important CSS Concepts Used:
+
+✔ display: flex
+
+✔ justify-content: space-between
+
+✔ align-items: center
+
+✔ position: fixed
+
+✔ z-index layering
+
+🔹 3. Sidebar Styling (sidebar.css)
+
+Sidebar uses:
+
+-Fixed positioning
+- Vertical flexbox
+- Hover background effect
+
+Key Concepts:
+
+✔ position: fixed
+
+✔ flex-direction: column
+
+✔ Hover background change
+
+🔹 4. Video Grid Styling (video.css)
+
+This is the most important layout section.
+
+It uses:
+
+-CSS Grid
+- Responsive breakpoints
+- Overlay positioning
+- Grid inside grid (video-info-grid)
