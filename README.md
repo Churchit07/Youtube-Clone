@@ -29,29 +29,34 @@ This project replicates the layout, styling, grid system, header, sidebar, and v
 - Layering using Z-Index
 - Hover Transitions
 
-📂 Project Structure
 
-YouTube-Clone/
-│
-├── youtube.html
-│
-├── styles/
-│   ├── general.css
-│   ├── header.css
-│   ├── sidebar.css
-│   ├── video.css
-│
-├── icons/
-├── thumbnails/
-├── channel-pic/
-└── README.md
-
-
-🛠️ Technologies Used
+# 🛠️Technologies Used
 
 HTML5
 CSS3 (Flexbox + Grid)
 Google Fonts (Roboto)
+
+## Project Structure
+
+```
+Youtube-Clone/
+│
+├── youtube.html                   # Main Homepage File
+│
+│
+├── Styles/                        # All CSS Files
+│   ├── general.css
+│   ├── header.css
+│   ├── sidebar.css
+│   └── video.css
+│
+├── Extras/
+│    ├── Thumbnails/               # Video thumbnail images
+│    ├── Channel pictures/         # Channel profile images
+│    ├── Icons /                   # SVG Icons
+│
+└── README.md
+```
 
 
 
