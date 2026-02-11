@@ -7,7 +7,7 @@ This project replicates the layout, styling, grid system, header, sidebar, and v
 
 # 🚀Features
 
-## Layout Features
+  ## Layout Features
 
 - Fixed Header with Search Bar
 - Fixed Sidebar Navigation
