@@ -30,11 +30,12 @@ This project replicates the layout, styling, grid system, header, sidebar, and v
 - Hover Transitions
 
 
+ 
 # 🛠️Technologies Used
 
-HTML5
-CSS3 (Flexbox + Grid)
-Google Fonts (Roboto)
+- HTML5
+- CSS3 (Flexbox + Grid)
+- Google Fonts (Roboto)
 
 ## Project Structure
 
