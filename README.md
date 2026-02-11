@@ -5,8 +5,7 @@ This project replicates the layout, styling, grid system, header, sidebar, and v
 
 ⚡ No JavaScript used — Pure HTML & CSS Layout Practice Project.
 
-🚀 Features
-
+#🚀 Features
 📌 Fixed Header with search bar & icons
 📌 Fixed Left Sidebar Navigation
 📌 Responsive Video Grid Layout
