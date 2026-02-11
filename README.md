@@ -154,3 +154,9 @@ It uses:
 - Absolute & Relative Positioning
 - Z-Index Layer Management
 - Media Queries
+
+## 👨‍💻 Author
+
+Churchit Goyal  
+GitHub: https://github.com/Churchit07  
+LinkedIn: https://www.linkedin.com/in/churchitgoyal
